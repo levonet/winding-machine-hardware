@@ -10,4 +10,5 @@
   (lib (name "JST-XH-7A")(type "KiCad")(uri "${KIPRJMOD}/libs/JST-XH-7A/KiCADv6/2025-01-18_17-01-31.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-DevKitV1-30pin")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-DevKitV1/esp32_30pin/esp32_30pin.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-DevKitV1-38pin")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-DevKitV1/esp32_38pin/esp32_38pin.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LV125")(type "KiCad")(uri "${KIPRJMOD}/libs/SN74LV125ADR/SN74LV125ADR.kicad_sym")(options "")(descr ""))
 )
