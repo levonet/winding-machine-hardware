@@ -11,4 +11,7 @@
   (lib (name "ESP32-DevKitV1-30pin")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-DevKitV1/esp32_30pin/esp32_30pin.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32-DevKitV1-38pin")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-DevKitV1/esp32_38pin/esp32_38pin.kicad_sym")(options "")(descr ""))
   (lib (name "SN74LV125")(type "KiCad")(uri "${KIPRJMOD}/libs/SN74LV125ADR/SN74LV125ADR.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-WROOM-32E-N4")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-WROOM-32E-N4/2025-09-26_14-05-10.kicad_sym")(options "")(descr ""))
+  (lib (name "NCP1117IST33T3G")(type "KiCad")(uri "${KIPRJMOD}/libs/NCP1117IST33T3G/2025-09-26_15-22-38.kicad_sym")(options "")(descr ""))
+  (lib (name "SSR-DCDC-40A")(type "KiCad")(uri "${KIPRJMOD}/libs/SSR-DCDC/2025-09-26_15-57-09.kicad_sym")(options "")(descr ""))
 )

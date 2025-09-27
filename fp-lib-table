@@ -10,4 +10,6 @@
   (lib (name "JST-XH-7A")(type "KiCad")(uri "${KIPRJMOD}/libs/JST-XH-7A/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "ESP32-DevKitV1-30pin")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-DevKitV1/esp32_30pin/footprints.pretty")(options "")(descr ""))
   (lib (name "ESP32-DevKitV1-38pin")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-DevKitV1/esp32_38pin/footprints.pretty")(options "")(descr ""))
+  (lib (name "ESP32-WROOM-32E-N4")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-WROOM-32E-N4/footprints.pretty")(options "")(descr ""))
+  (lib (name "SSR-DCDC")(type "KiCad")(uri "${KIPRJMOD}/libs/SSR-DCDC/footprints.pretty")(options "")(descr ""))
 )

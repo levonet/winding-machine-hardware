@@ -1,0 +1,48 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "0ec26b1b-b6fa-47b4-a656-ff356ef3f3d0")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 40.64 25.4) (xy 31.75 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c521200-331f-4a2d-9bdf-cd91f28e9bdb")
+	)
+	(label "GPIO14_X_EN"
+		(at 31.75 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "20a2328a-7e8a-474f-a480-f469369d0216")
+	)
+	(label "GPIO12_X_DIR"
+		(at 31.75 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ab026e71-363f-4d7d-93aa-6dc0bd4bfa6c")
+	)
+	(label "GPIO13_X_STEP"
+		(at 31.75 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f9bbb07f-12a3-4cab-a68e-9993afbde5c2")
+	)
+)
