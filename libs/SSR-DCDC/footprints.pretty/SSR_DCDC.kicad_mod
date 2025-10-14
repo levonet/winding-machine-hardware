@@ -245,8 +245,8 @@
 		(layers "F&B.Cu" "*.Mask")
 		(uuid "1adea11f-7eb9-4c20-95e1-b57917e48d0a")
 	)
-	(pad "1-" thru_hole roundrect
-		(at 8.5 -4.5)
+	(pad "1" thru_hole roundrect
+		(at 12 -4.5)
 		(size 4 4)
 		(drill 2)
 		(layers "*.Cu" "*.Mask")
@@ -256,8 +256,8 @@
 		(chamfer top_left)
 		(uuid "20ce3e18-cc37-4f08-8d22-86792d910a88")
 	)
-	(pad "2+" thru_hole roundrect
-		(at 36.5 -4.5)
+	(pad "2" thru_hole roundrect
+		(at 33 -4.5)
 		(size 4 4)
 		(drill 2)
 		(layers "*.Cu" "*.Mask")
@@ -267,8 +267,8 @@
 		(chamfer)
 		(uuid "6aede682-17d3-4dd2-b339-1eee07bd85cf")
 	)
-	(pad "3+" thru_hole roundrect
-		(at 36.5 63)
+	(pad "3" thru_hole roundrect
+		(at 33 63)
 		(size 2 2)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
@@ -278,8 +278,8 @@
 		(chamfer)
 		(uuid "4a377136-203a-4ef7-9caf-ebcb7ad94ccb")
 	)
-	(pad "4-" thru_hole roundrect
-		(at 8.5 63)
+	(pad "4" thru_hole roundrect
+		(at 12 63)
 		(size 2 2)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")

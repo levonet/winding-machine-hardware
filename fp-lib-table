@@ -18,4 +18,5 @@
   (lib (name "MEM2061_01_188_00_A")(type "KiCad")(uri "${KIPRJMOD}/libs/MEM2061_01_188_00_A/footprints.pretty")(options "")(descr ""))
   (lib (name "NCP1117IST33T3G")(type "KiCad")(uri "${KIPRJMOD}/libs/NCP1117IST33T3G/footprints.pretty")(options "")(descr ""))
   (lib (name "SN74LV125ADR")(type "KiCad")(uri "${KIPRJMOD}/libs/SN74LV125ADR/footprints.pretty")(options "")(descr ""))
+  (lib (name "TLP521-1XSM")(type "KiCad")(uri "${KIPRJMOD}/libs/TLP521-1XSM/footprints.pretty")(options "")(descr ""))
 )
